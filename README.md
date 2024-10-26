@@ -37,4 +37,4 @@ This project is developed using the following technologies:
 
 ## Contacts
 If you have any questions or suggestions, feel free to reach me via 
-[ruslanohernko.job@gmail.com]
+[ruslanoherenko.job@gmail.com]
